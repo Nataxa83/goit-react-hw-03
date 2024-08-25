@@ -1,6 +1,7 @@
 .contactItem {
   border: 1px solid black;
   border-radius: 5px;
+  background-color: rgb(247, 247, 227);
   width: 400px;
   height: 100px;
   display: flex;
@@ -31,4 +32,5 @@
 .btn {
   margin-right: 15px;
   font-size: 20px;
+  height: 40px;
 }
